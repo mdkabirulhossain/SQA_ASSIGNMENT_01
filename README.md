@@ -17,7 +17,7 @@ Now if it's all done, then instal **Flask** with the following command:
 pip install Flask
 ```
 
-At this moment, the setup stages are all done, what reamins is that the python application/api that is to be run. Now, the assignment file (app.py) is added to this directory, and the **Flask** app needs to exported to the environment. To do that, do this:
+At this moment, the setup stages are all done, what reamins is that the python application/api that is to be run. Now, the assignment file (app.py) is added to this directory, and the **Flask** app needs to be exported to the environment. To do that, do this:
 ```bash
 export FLASK_APP=app.py
 export FLASK_ENV=development
